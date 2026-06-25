@@ -1,0 +1,47 @@
+{
+  "game": "Wuthering Waves",
+  "language": "ko",
+  "consultation_type": "build",
+  "title": "저신뢰 스크린샷 추출 예시",
+  "summary": "흐릿한 스크린샷에서는 보이는 값만 confirmed로 두고 나머지는 확인 필요로 둔다.",
+  "input_images": [
+    {
+      "display_role": "echo",
+      "display_path": "/tmp/example-blurry-echo.png",
+      "status": "unreadable"
+    }
+  ],
+  "resonators": [
+    {
+      "name": "unknown",
+      "confidence": "needs_confirmation",
+      "echoes": [
+        {
+          "slot": 1,
+          "confidence": "needs_confirmation"
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "claim": "에코 주옵/부옵이 흐릿하면 세팅 판단을 보류하고 재촬영을 요청한다.",
+      "rationale": "스킬 규칙상 unreadable 값을 추측하지 않고 `확인 필요`로 표시해야 한다.",
+      "confidence": "needs_confirmation",
+      "category": "extraction"
+    }
+  ],
+  "sources": [
+    {
+      "type": "official",
+      "url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4819.json",
+      "title": "Patch Notes for Version 3.4: The Dream Not Dreamed",
+      "published_or_updated": "2026-06-08 10:00:00",
+      "target_version": "3.4",
+      "supports": [
+        "official seed claim from article 4819"
+      ]
+    }
+  ],
+  "visual_artifacts": []
+}

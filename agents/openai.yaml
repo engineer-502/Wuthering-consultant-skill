@@ -1,0 +1,4 @@
+name: Wuthering Consultant
+description: Korean Wuthering Waves / 명조 account, resonator build, weapon, echo, sonata, rotation, pull, and progression consulting skill.
+prompt: |
+  Use the wuthering-consultant SKILL.md instructions. Prefer Korean output, verify current meta claims with cited sources, and do not install or persist user screenshots unless explicitly requested.

@@ -1,0 +1,12 @@
+{
+  "cards": [
+    {
+      "title": "Build",
+      "path": "/tmp/wuwa-card.svg"
+    },
+    {
+      "title": "Party",
+      "path": "/tmp/wuwa-party.svg"
+    }
+  ]
+}

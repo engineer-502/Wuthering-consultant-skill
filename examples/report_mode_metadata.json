@@ -1,0 +1,37 @@
+{
+  "game": "Wuthering Waves",
+  "language": "ko",
+  "consultation_type": "report",
+  "title": "이미지 리포트 메타데이터 예시",
+  "summary": "리포트 모드는 명시 요청 시에만 생성한다.",
+  "recommendations": [
+    {
+      "claim": "리포트 카드에는 결론, 에코 기준, 무기 우선순위, 파티 로테이션을 분리한다.",
+      "rationale": "긴 출처는 카드 안이 아니라 텍스트 답변의 출처 섹션에 둬야 가독성이 유지된다.",
+      "confidence": "confirmed",
+      "category": "report"
+    }
+  ],
+  "sources": [
+    {
+      "type": "official",
+      "url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4819.json",
+      "title": "Patch Notes for Version 3.4: The Dream Not Dreamed",
+      "published_or_updated": "2026-06-08 10:00:00",
+      "target_version": "3.4",
+      "supports": [
+        "official seed claim from article 4819"
+      ]
+    }
+  ],
+  "visual_artifacts": [
+    {
+      "kind": "build_report",
+      "path": "generated/lucilla-report.svg",
+      "metadata_path": "examples/report_card.json",
+      "sources": [
+        "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4819.json"
+      ]
+    }
+  ]
+}

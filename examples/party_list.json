@@ -1,0 +1,21 @@
+{
+  "title": "추천 파티 예시",
+  "parties": [
+    {
+      "name": "Glacio 테스트 파티",
+      "members": [
+        "Lucilla",
+        "Support",
+        "Sub DPS"
+      ]
+    },
+    {
+      "name": "Collab 테스트 파티",
+      "members": [
+        "Lucy",
+        "Rebecca",
+        "Sustain"
+      ]
+    }
+  ]
+}

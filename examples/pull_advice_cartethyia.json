@@ -1,0 +1,44 @@
+{
+  "game": "Wuthering Waves",
+  "language": "ko",
+  "consultation_type": "pull",
+  "title": "카르테시아 뽑기 상담 예시",
+  "summary": "Phase II 배너 기간과 보유 재화/보장 여부를 확인한 뒤 기회비용 중심으로 판단한다.",
+  "account": {
+    "astrite": 12000,
+    "guarantee_status": "needs_confirmation",
+    "pity": 45
+  },
+  "recommendations": [
+    {
+      "claim": "카르테시아는 보유 Aero 딜러/무기/2파티 필요성이 확인될 때 조건부 추천이다.",
+      "rationale": "공식 Phase II 배너 기간은 확인되지만, 실제 계정 가치는 보유 로스터와 보장 상태에 좌우된다. 과금 유도 없이 대체 캐릭터와 다음 버전 기회비용을 함께 비교해야 한다.",
+      "confidence": "inferred",
+      "category": "pull",
+      "opportunity_cost": "다음 픽업/전용 무기/서포터 보강 가능성을 보류 비용으로 계산"
+    }
+  ],
+  "sources": [
+    {
+      "type": "official",
+      "url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4916.json",
+      "title": "[Version 3.4 Featured Resonator/Weapon Convene: Phase II]",
+      "published_or_updated": "2026-06-17 10:00:00",
+      "target_version": "3.4",
+      "supports": [
+        "official seed claim from article 4916"
+      ]
+    },
+    {
+      "type": "official",
+      "url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/758.json",
+      "title": "Convene Details",
+      "published_or_updated": "2024-05-23 10:00:00",
+      "target_version": "3.4",
+      "supports": [
+        "official seed claim from article 758"
+      ]
+    }
+  ],
+  "visual_artifacts": []
+}

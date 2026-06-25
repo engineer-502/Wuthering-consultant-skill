@@ -1,0 +1,51 @@
+{
+  "game": "Wuthering Waves",
+  "language": "ko",
+  "consultation_type": "build",
+  "title": "루실라 빌드 상담 예시",
+  "summary": "공식 3.4 시드와 현재 가이드 확인을 전제로 루실라의 Echo Skill/Concerto 중심 빌드를 점검한다.",
+  "resonators": [
+    {
+      "name": "Lucilla",
+      "attribute": "Glacio",
+      "weapon_type": "Rectifier",
+      "confidence": "confirmed",
+      "stats": {
+        "crit_rate": null,
+        "crit_dmg": null,
+        "energy_regen": null
+      }
+    }
+  ],
+  "recommendations": [
+    {
+      "claim": "루실라는 Echo Skill DMG와 Concerto 흐름을 우선 점검한다.",
+      "rationale": "공식 3.4 역할 태그가 Concerto Efficiency, Basic Attack DMG, Echo Skill DMG, Glacio Chafe, Echo Skill DMG Amplification으로 제시되어 있다.",
+      "confidence": "confirmed",
+      "category": "build"
+    }
+  ],
+  "sources": [
+    {
+      "type": "official",
+      "url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4819.json",
+      "title": "Patch Notes for Version 3.4: The Dream Not Dreamed",
+      "published_or_updated": "2026-06-08 10:00:00",
+      "target_version": "3.4",
+      "supports": [
+        "official seed claim from article 4819"
+      ]
+    },
+    {
+      "type": "official",
+      "url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4819.json",
+      "title": "Patch Notes for Version 3.4: The Dream Not Dreamed",
+      "published_or_updated": "2026-06-08 10:00:00",
+      "target_version": "3.4",
+      "supports": [
+        "official seed claim from article 4870"
+      ]
+    }
+  ],
+  "visual_artifacts": []
+}

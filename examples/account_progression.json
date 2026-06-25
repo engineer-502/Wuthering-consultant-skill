@@ -1,0 +1,41 @@
+{
+  "game": "Wuthering Waves",
+  "language": "ko",
+  "consultation_type": "account",
+  "title": "계정 성장 상담 예시",
+  "summary": "Union Level, Data Bank, 2파티 엔드게임 준비도를 기준으로 파밍 순서를 정한다.",
+  "account": {
+    "union_level": {
+      "value": 60,
+      "confidence": "confirmed"
+    },
+    "data_bank_level": {
+      "value": 21,
+      "confidence": "confirmed"
+    },
+    "endgame_progress": {
+      "tower": "needs_confirmation"
+    }
+  },
+  "recommendations": [
+    {
+      "claim": "먼저 주력 딜러/무기 레벨과 Data Bank 기반 에코 파밍 효율을 고정한다.",
+      "rationale": "초중반에는 완벽한 부옵보다 레벨/무기/스킬/주옵/소나타 정합성이 더 큰 병목인 경우가 많다.",
+      "confidence": "inferred",
+      "category": "account"
+    }
+  ],
+  "sources": [
+    {
+      "type": "official",
+      "url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4819.json",
+      "title": "Patch Notes for Version 3.4: The Dream Not Dreamed",
+      "published_or_updated": "2026-06-08 10:00:00",
+      "target_version": "3.4",
+      "supports": [
+        "official seed claim from article 4819"
+      ]
+    }
+  ],
+  "visual_artifacts": []
+}

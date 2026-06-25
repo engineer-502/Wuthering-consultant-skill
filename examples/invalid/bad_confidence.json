@@ -1,0 +1,24 @@
+{
+  "game": "Wuthering Waves",
+  "language": "ko",
+  "consultation_type": "build",
+  "recommendations": [
+    {
+      "claim": "테스트",
+      "rationale": "테스트",
+      "confidence": "certain"
+    }
+  ],
+  "sources": [
+    {
+      "type": "official",
+      "url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4819.json",
+      "title": "Patch Notes for Version 3.4: The Dream Not Dreamed",
+      "published_or_updated": "2026-06-08 10:00:00",
+      "target_version": "3.4",
+      "supports": [
+        "official seed claim from article 4819"
+      ]
+    }
+  ]
+}

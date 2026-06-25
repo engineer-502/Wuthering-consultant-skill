@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "generated_from": "data/seed/wuwa_official_3_4_seed.json",
+  "sources": [
+    {
+      "id": 4819,
+      "title": "Patch Notes for Version 3.4: The Dream Not Dreamed",
+      "date": "2026-06-08 10:00:00",
+      "url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4819.json"
+    },
+    {
+      "id": 758,
+      "title": "Convene Details",
+      "date": "2024-05-23 10:00:00",
+      "url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/758.json"
+    },
+    {
+      "id": 4916,
+      "title": "[Version 3.4 Featured Resonator/Weapon Convene: Phase II]",
+      "date": "2026-06-17 10:00:00",
+      "url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4916.json"
+    },
+    {
+      "id": 4836,
+      "title": "[Dreaming Upon the Moon] Collab Resonator Convene",
+      "date": "2026-06-07 11:00:00",
+      "url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4836.json"
+    },
+    {
+      "id": 4852,
+      "title": "[Rekindled Embers of Rage] Collab Resonator Convene",
+      "date": "2026-06-07 11:10:00",
+      "url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4852.json"
+    },
+    {
+      "id": 4918,
+      "title": "Resonator Review | Feathered Tempest — Cartethyia",
+      "date": "2026-06-17 18:00:00",
+      "url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4918.json"
+    }
+  ]
+}

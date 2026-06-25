@@ -1,0 +1,10 @@
+{
+  "kind": "build_report",
+  "title": "루실라 빌드 리포트",
+  "subtitle": "Functional seed fallback",
+  "lines": [
+    "Echo Skill DMG 확인",
+    "Concerto 흐름 점검",
+    "최신 가이드는 재검색"
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "schema_version": 1,
+  "game": "Wuthering Waves",
+  "ko_name": "명조",
+  "retrieved_at": "2026-06-18T18:28:00Z",
+  "version_context": {
+    "version": "3.4",
+    "title": "The Dream Not Dreamed",
+    "release": "2026-06-08 (UTC+8)",
+    "official_patch_article_id": 4819,
+    "source_url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4819.json"
+  },
+  "resonators": [
+    {
+      "name": "Lucy",
+      "ko": "루시",
+      "rarity": 5,
+      "attribute": "Spectro",
+      "weapon": "Pistols",
+      "roles": [
+        "Main Damage Dealer",
+        "Heavy Attack DMG",
+        "Basic Attack DMG Amplification",
+        "Hack Response"
+      ],
+      "availability": "Collab Resonator Convene [Dreaming Upon the Moon], Version 3.4 through 2026-07-09 11:59 server time",
+      "source_ids": [
+        4819,
+        4836,
+        4800
+      ],
+      "source_url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4819.json",
+      "aliases": [
+        "Lucy",
+        "루시",
+        "ルーシー"
+      ]
+    },
+    {
+      "name": "Rebecca",
+      "ko": "레베카",
+      "rarity": 5,
+      "attribute": "Electro",
+      "weapon": "Pistols",
+      "roles": [
+        "Concerto Efficiency",
+        "Basic Attack DMG",
+        "Heavy Attack DMG Amplification",
+        "Tune Break Boost",
+        "Hack Response"
+      ],
+      "availability": "Collab Resonator Convene [Rekindled Embers of Rage] and Collab Special Login Event, Version 3.4 through 2026-07-09 11:59 server time",
+      "source_ids": [
+        4819,
+        4852,
+        4799
+      ],
+      "source_url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4819.json",
+      "aliases": [
+        "Rebecca",
+        "레베카",
+        "レベッカ"
+      ]
+    },
+    {
+      "name": "Lucilla",
+      "ko": "루실라",
+      "rarity": 5,
+      "attribute": "Glacio",
+      "weapon": "Rectifier",
+      "roles": [
+        "Concerto Efficiency",
+        "Basic Attack DMG",
+        "Echo Skill DMG",
+        "Glacio Chafe",
+        "Echo Skill DMG Amplification"
+      ],
+      "availability": "Featured Resonator Convene [Tomorrow in the Frame], Version 3.4",
+      "source_ids": [
+        4819,
+        4885,
+        4870
+      ],
+      "source_url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4819.json",
+      "aliases": [
+        "Lucilla",
+        "루실라"
+      ]
+    },
+    {
+      "name": "Cartethyia",
+      "ko": "카르테시아",
+      "rarity": 5,
+      "attribute": "Aero",
+      "weapon": "Sword",
+      "roles": [
+        "Aero DPS",
+        "Rinascita knight",
+        "Fleurdelys form / mechanics require current guide check"
+      ],
+      "availability": "Featured Resonator Convene [Dance in the Storm's Wake], 2026-06-18 10:00 - 2026-07-09 11:59 server time",
+      "source_ids": [
+        4916,
+        4918
+      ],
+      "source_url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4916.json",
+      "aliases": [
+        "Cartethyia",
+        "Fleurdelys",
+        "카르테시아"
+      ]
+    }
+  ],
+  "weapons": [
+    {
+      "name": "Spectral Trigger",
+      "ko": "스펙트럴 트리거",
+      "rarity": 5,
+      "type": "Pistols",
+      "associated": "Lucy",
+      "source_ids": [
+        4819,
+        4844
+      ],
+      "source_url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4819.json",
+      "aliases": [
+        "Spectral Trigger",
+        "스펙트럴 트리거"
+      ]
+    },
+    {
+      "name": "Skull Thrasher",
+      "ko": "스컬 스래셔",
+      "rarity": 5,
+      "type": "Pistols",
+      "associated": "Rebecca",
+      "source_ids": [
+        4819,
+        4860
+      ],
+      "source_url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4819.json",
+      "aliases": [
+        "Skull Thrasher",
+        "스컬 스래셔"
+      ]
+    },
+    {
+      "name": "Freeze Frame",
+      "ko": "프리즈 프레임",
+      "rarity": 5,
+      "type": "Rectifier",
+      "associated": "Lucilla",
+      "source_ids": [
+        4819,
+        4894
+      ],
+      "source_url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4819.json",
+      "aliases": [
+        "Freeze Frame",
+        "프리즈 프레임"
+      ]
+    },
+    {
+      "name": "Defier's Thorn",
+      "ko": "디파이어스 손",
+      "rarity": 5,
+      "type": "Sword",
+      "associated": "Cartethyia",
+      "source_ids": [
+        4916
+      ],
+      "source_url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4916.json",
+      "aliases": [
+        "Defier's Thorn",
+        "Defiers Thorn",
+        "디파이어스 손"
+      ]
+    }
+  ],
+  "echoes": [
+    {
+      "name": "Reminiscence - Nightmare: Adam Smasher",
+      "ko": "추억 - 나이트메어: 아담 스매셔",
+      "kind": "Collab Echo",
+      "sonata": "Shadow of Shattered Dreams",
+      "effect": "Inflicting Hack - Shifting grants 35% Basic Attack DMG Bonus and Heavy Attack DMG Bonus for 15s.",
+      "source_ids": [
+        4819,
+        4906
+      ],
+      "source_url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4819.json",
+      "aliases": [
+        "Adam Smasher",
+        "Nightmare Adam Smasher",
+        "아담 스매셔"
+      ]
+    }
+  ],
+  "sonata_effects": [
+    {
+      "name": "Shadow of Shattered Dreams",
+      "ko": "부서진 꿈의 그림자",
+      "pieces": "1-piece",
+      "effect": "Inflicting Hack - Shifting on the target grants 35% Basic Attack DMG Bonus and Heavy Attack DMG Bonus for 15s.",
+      "source_ids": [
+        4819
+      ],
+      "source_url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4819.json",
+      "aliases": [
+        "Shadow of Shattered Dreams",
+        "부서진 꿈의 그림자"
+      ]
+    }
+  ],
+  "convene_rules": {
+    "featured_resonator": "Official Convene Details list 0.8% base 5-star, 1.8% average including guarantee, at least one 5-star Resonator every 80 convenes, 50% featured chance then next 5-star guaranteed featured if off-rate.",
+    "featured_weapon": "Official Convene Details list at least one 5-star Weapon every 80 convenes and featured 5-star weapon is guaranteed when obtained on Featured Weapon Convene.",
+    "four_star": "At least one 4-star or higher Resonator/Weapon every 10 attempts on cited convene types.",
+    "source_url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/758.json"
+  },
+  "official_sources": [
+    {
+      "id": 4819,
+      "title": "Patch Notes for Version 3.4: The Dream Not Dreamed",
+      "date": "2026-06-08 10:00:00",
+      "url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4819.json"
+    },
+    {
+      "id": 758,
+      "title": "Convene Details",
+      "date": "2024-05-23 10:00:00",
+      "url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/758.json"
+    },
+    {
+      "id": 4916,
+      "title": "[Version 3.4 Featured Resonator/Weapon Convene: Phase II]",
+      "date": "2026-06-17 10:00:00",
+      "url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4916.json"
+    },
+    {
+      "id": 4836,
+      "title": "[Dreaming Upon the Moon] Collab Resonator Convene",
+      "date": "2026-06-07 11:00:00",
+      "url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4836.json"
+    },
+    {
+      "id": 4852,
+      "title": "[Rekindled Embers of Rage] Collab Resonator Convene",
+      "date": "2026-06-07 11:10:00",
+      "url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4852.json"
+    },
+    {
+      "id": 4918,
+      "title": "Resonator Review | Feathered Tempest — Cartethyia",
+      "date": "2026-06-17 18:00:00",
+      "url": "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/en/article/4918.json"
+    }
+  ],
+  "source_notes": [
+    {
+      "claim": "Version 3.4 official release and featured content seed",
+      "source_ids": [
+        4819
+      ],
+      "sensitivity": "current-version"
+    },
+    {
+      "claim": "Featured Resonator and Weapon Convene guarantee rules",
+      "source_ids": [
+        758
+      ],
+      "sensitivity": "banner-rules"
+    },
+    {
+      "claim": "Phase II Cartethyia and Defier's Thorn schedule",
+      "source_ids": [
+        4916
+      ],
+      "sensitivity": "current-banner"
+    }
+  ]
+}
