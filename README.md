@@ -129,7 +129,7 @@ python -m playwright install chromium
 
 ## 공개 배포 및 개인정보 원칙
 
-이 저장소는 공개 설치를 전제로 합니다. 다음 항목은 저장소에 포함하지 않는 것을 원칙으로 합니다.
+이 저장소는 다음 항목은 저장소에 포함하지 않는 것을 원칙으로 합니다.
 
 - 개인 계정 스크린샷 또는 플레이 기록 원본
 - 로컬 사용자 경로, 개인 PC 경로, 작업 로그
@@ -139,9 +139,6 @@ python -m playwright install chromium
 
 `.gitignore`는 생성 결과와 로컬 캐시가 실수로 포함되지 않도록 구성되어 있습니다.
 
-## Legal Notice and Liability Disclaimer (Fan-made / Unofficial)
-
-이 문서는 프로젝트의 공개 배포 목적 고지이며, 법률 자문이 아닙니다. 실제 법적 판단이나 분쟁 대응은 관할 법령과 전문가 검토를 따르세요.
 
 ### AI 판단 및 사용 책임 면책
 
